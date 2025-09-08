@@ -1,0 +1,136 @@
+﻿Codigo de Estación;Nombre de la estacion;tiempo de antelacion;Punto de Encuentro;Aparcamiento;Andén;Aseos;Vestíbulo
+02002;Puente Genil-Herrera;30 m.;Atención al Cliente;Si;Si;Si;Si
+02003;Antequera Sta. Ana;30 m.;Atención al Cliente;Si;Si;Si;Si
+03100;Jaén;30 m.;Venta de Billetes;Si;Si;Si;Si
+03208;Cuenca AV FZ;30 m.;Atención al Cliente;Si;Si;Si;Si
+03213;Requena-Utiel;12 H.;Atención al Cliente;Si;Si;Si;Si
+03216;Valencia AV JS;30 m.;Centro Servicios Cliente;Si;Si;Si;Si
+03309;Villena AV;12 H.;Venta de Billetes;Si;Si;Si;Si
+04007;Guadalajara Yebes;30 m.;Venta de Billetes;Si;Si;Si;Si
+04040;Zaragoza Delicias;30 m.;Centro Servicios Cliente;Si;Si;Si;Si
+04104;Camp de Tarragona;30 m.;Centro Servicios Cliente;Si;Si;Si;Si
+04307;Figueres Vilafant;30 m.;Atención al Cliente;Si;Si;Si;Si
+05000;Granada;30 m.;Atención al Cliente;Si;No;Si;Si
+08004;Segovia AV;30 m.;Atención al Cliente;Si;Si;Si;Si
+08223;Vigo-Urzaiz;30 m.;Centro Servicios Cliente;Si;Si;Si;Si
+08224;Redondela AV;12 H.;Venta de Billetes;Si;Si;Si;Si
+08240;Medina del Campo AV;12 H.;Venta de Billetes;Si;Si;Si;Si
+10200;Villalba de Guadarrama;12 H.;Venta de Billetes;Si;Si;No;Si
+10400;Avila;30 m.;Venta de Billetes;Si;Si;Si;Si
+10500;Medina del Campo;12 H.;Venta de Billetes;Si;No;Si;Si
+10600;Valladolid;30 m.;Atención al Cliente;Si;Si;Si;Si
+11014;Burgos Rosa de Lima;30 m.;Venta de Billetes;Si;Si;Si;Si
+11109;Briviesca;12 H.;Venta de Billetes;Si;No;Si;Si
+11200;Miranda de Ebro;30 m.;Venta de Billetes;Si;Si;Si;Si
+11208;Vitoria / Gasteiz;30 m.;Venta de Billetes;Si;Si;Si;Si
+11511;San Sebastián / Donostia;30 m.;Venta de Billetes;Si;Si;Si;Si
+11600;Irún;30 m.;Venta de Billetes;Si;Si;Si;Si
+13200;Bilbao (Interm Abando I P);30 m.;Atención al Cliente;Si;Si;Si;Si
+14100;Palencia;30 m.;Venta de Billetes;Si;Si;Si;Si
+14200;Mataporquera;12 H.;Venta de Billetes;Si;No;Si;Si
+14223;Santander;30 m.;Atención al Cliente;Si;Si;Si;Si
+15009;Sahagún;12 H.;Venta de Billetes;Si;No;No;Si
+15100;León;30 m.;Venta de Billetes;Si;Si;Si;Si
+15203;Mieres Puente;12 H.;Venta de Billetes;Si;Si;Si;Si
+15211;Oviedo;30 m.;Venta de Billetes;Si;Si;Si;Si
+15410;Gijón;30 m.;Venta de Billetes;Si;Si;Si;Si
+17000;Madrid Chamartín;30 m.;Centro Servicios Cliente;Si;Si;Si;Si
+18000;Madrid Atocha Cercanías;30 m.;Atención al Cliente;Si;Si;Si;Si
+20005;Veguellina;12 H.;Venta de Billetes;Si;No;Si;Si
+20100;Astorga;12 H.;Venta de Billetes;Si;Si;Si;Si
+20200;Ponferrada;12 H.;Venta de Billetes;Si;No;Si;Si
+20211;O Barco de Valdeorras;12 H.;Venta de Billetes;No;Si;Si;Si
+20300;Monforte de Lemos;30 m.;Venta de Billetes;Si;No;Si;Si
+20305;Sarria;12 H.;Venta de Billetes;Si;No;Si;Si
+20309;Lugo;30 m.;Venta de Billetes;Si;Si;Si;Si
+21010;Ferrol;12 H.;Venta de Billetes;Si;Si;Si;Si
+22100;Ourense;30 m.;Venta de Billetes;Si;Si;Si;Si
+22308;Vigo-Guixar;12 H.;Venta de Billetes;Si;Si;Si;Si
+23004;Pontevedra;30 m.;Atención al Cliente;Si;Si;Si;Si
+23008;Villagarcia de Arousa;12 H.;Venta de Billetes;Si;Si;Si;Si
+30002;Plasencia;12 H.;Venta de Billetes;Si;Si;Si;Si
+30100;Salamanca;30 m.;Venta de Billetes;Si;Si;Si;Si
+30200;Zamora;12 H.;Venta de Billetes;Si;Si;Si;Si
+31400;Santiago de Compostela;30 m.;Centro Servicios Cliente;Si;Si;Si;Si
+31412;A Coruña;30 m.;Atención al Cliente;Si;Si;Si;Si
+34010;Peñaranda de Bracamonte;12 H.;Venta de Billetes;No;No;Si;Si
+35200;Talavera de la Reina;12 H.;Venta de Billetes;Si;No;Si;Si
+35203;Oropesa de Toledo;12 H.;Venta de Billetes;Si;No;Si;Si
+35206;Navalmoral de la Mata;12 H.;Venta de Billetes;Si;No;Si;Si
+35400;Cáceres;30 m.;Venta de Billetes;Si;Si;Si;Si
+37200;Ciudad Real;30 m.;Atención al Cliente;Si;Si;Si;Si
+37300;Puertollano;30 m.;Venta de Billetes;Si;Si;Si;Si
+37406;Villanueva de la Serena;12 H.;Venta de Billetes;Si;No;Si;Si
+37500;Mérida;30 m.;Venta de Billetes;Si;Si;Si;Si
+37603;Montijo;12 H.;Venta de Billetes;Si;No;Si;Si
+37606;Badajoz;30 m.;Venta de Billetes;Si;Si;Si;Si
+37704;Villanueva de Cordoba-Los Pedroches;12 H.;Venta de Billetes;Si;Si;Si;Si
+43011;La Palma del Condado;12 H.;Venta de Billetes;No;No;Si;Si
+43019;Huelva;30 m.;Atención al Cliente;Si;No;Si;Si
+50100;Manzanares;12 H.;Venta de Billetes;Si;Si;Si;Si
+50300;Linares Baeza;30 m.;Atención al Cliente;Si;No;Si;Si
+50400;Espeluy;12 H.;Venta de Billetes;Si;No;Si;Si
+50417;Universidad de Rabanales;12 H.;Venta de Billetes;No;Si;Si;No
+50500;Córdoba;30 m.;Puesto Atendo. Venta de billetes;Si;Si;Si;Si
+51003;Sevilla Santa Justa;30 m.;Atención al Cliente;Si;Si;Si;Si
+51203;Lebrija;12 H.;Venta de Billetes;Si;Si;Si;Si
+51300;Jerez de la Frontera;30 m.;Atención al Cliente;Si;Si;Si;Si
+51400;Puerto de Santa María;12 H.;Venta de Billetes;Si;Si;Si;Si
+51405;Cádiz;30 m.;Atención al Cliente;Si;Si;Si;Si
+51406;San Fernando-Bahía Sur;30 m.;Venta de Billetes;Si;Si;Si;Si
+54105;Montilla;12 H.;Venta de Billetes;Si;No;Si;Si
+54400;Bobadilla;12 H.;Venta de Billetes;Si;No;Si;Si
+54413;Málaga;30 m.;Centro Servicios Cliente;Si;Si;Si;Si
+55007;Ronda;12 H.;Venta de Billetes;Si;Si;Si;Si
+55020;Algeciras;30 m.;Venta de Billetes;Si;Si;Si;Si
+56312;Almería Intermodal;30 m.;Atención al Cliente;Si;No;Si;Si
+60000;Madrid Pta. Atocha;30 m.;Centro de Servicios (Jardín tropical);Si;Si;Si;Si
+60203;Villasequilla;12 H.;Venta de Billetes;Si;No;No;Si
+60300;Villacañas;12 H.;Venta de Billetes;Si;No;Si;Si
+60400;Alcázar de San Juan;30 m.;Centro Atendo;Si;Si;Si;Si
+60406;Socuellamos;12 H.;Venta de Billetes;Si;Si;Si;Si
+60500;Villarrobledo;12 H.;Venta de Billetes;Si;No;Si;Si
+60600;Albacete;30 m.;Atención al Cliente;Si;Si;Si;Si
+60800;Almansa;12 H.;Venta de Billetes;Si;No;Si;Si
+60902;Villena;12 H.;Venta de Billetes;Si;No;Si;Si
+60905;Elda-Petrer;12 H.;Venta de Billetes;Si;Si;Si;Si
+60911;Alacant;30 m.;Atención al Cliente;Si;Si;Si;Si
+61200;Murcia;30 m.;Atención al Cliente;Si;Si;Si;Si
+61303;Balsicas-Mar Menor;12 H.;Venta de Billetes;Si;No;Si;Si
+61307;Cartagena;30 m.;Atención al Cliente;Si;Si;Si;Si
+64100;Xátiva;12 H.;Venta de Billetes;Si;Si;Si;Si
+65000;Valencia Estació del Nord;30 m.;Atención al Cliente;Si;Si;Si;Si
+65200;Sagunto;12 H.;Venta de Billetes;Si;Si;Si;Si
+65300;Castelló;30 m.;Atención al Cliente;Si;Si;Si;Si
+65311;Benicarlo-Peñiscola;12 H.;Venta de Billetes;Si;Si;Si;Si
+65312;Vinaros;12 H.;Venta de Billetes;Si;Si;Si;Si
+65318;Benicassin;12 H.;Venta de Billetes;Si;Si;No;Si
+65400;Tortosa;12 H.;Venta de Billetes;No;Si;Si;Si
+65402;L'Aldea Amposta;12 H.;Venta de Billetes;Si;Si;No;Si
+65411;Port Aventura;12 H.;null;No;Si;No;No
+66100;Cuenca;12 H.;Venta de Billetes;Si;No;No;Si
+67200;Teruel;30 m.;Venta de Billetes;Si;Si;Si;Si
+69104;Cullera;12 H.;Venta de Billetes;Si;Si;Si;Si
+69110;Gandía;12 H.;Venta de Billetes;Si;Si;Si;Si
+70600;Calatayud;30 m.;Venta de Billetes;Si;Si;Si;Si
+71400;Reus;12 H.;Atención al Cliente;Si;Si;Si;Si
+71500;Tarragona;30 m.;Atención al Cliente;Si;No;Si;Si
+71503;Torredembarra;12 H.;Venta de Billetes;No;No;No;Si
+71801;Barcelona -Sants;30 m.;Centro Servicios Cliente;Si;Si;Si;Si
+74200;Huesca;30 m.;Venta de Billetes;Si;Si;Si;Si
+78400;Lleida Pirineus;30 m.;Centro Servicios Cliente;Si;Si;Si;Si
+79300;Girona;30 m.;Atención al Cliente;Si;Si;Si;Si
+79303;Flaça;12 H.;Venta de Billetes;Si;Si;Si;Si
+79309;Figueres;12 H.;Atención al Cliente;Si;Si;Si;Si
+79315;Portbou;12 H.;Venta de Billetes;No;No;Si;Si
+79400;Barcelona França;12 H.;Atención al Cliente;Si;Si;Si;Si
+80100;Pamplona;30 m.;Venta de Billetes;Si;No;Si;Si
+80108;Tafalla;12 H.;Venta de Billetes;Si;No;Si;Si
+81100;Logroño;30 m.;Venta de Billetes;Si;Si;Si;Si
+81108;Calahorra;12 H.;Venta de Billetes;Si;No;Si;Si
+81200;Castejón de Ebro;12 H.;Venta de Billetes;Si;No;Si;Si
+81202;Tudela de Navarra;12 H.;Venta de Billetes;Si;No;Si;Si
+81205;Cortes de Navarra;12 H.;Venta de Billetes;Si;No;Si;Si
+82100;Soria;12 H.;Venta de Billetes;Si;Si;Si;Si
+92102;Toledo;30 m.;Venta de Billetes;Si;Si;Si;Si
+94002;Daimiel;12 H.;Venta de Billetes;Si;No;Si;Si
