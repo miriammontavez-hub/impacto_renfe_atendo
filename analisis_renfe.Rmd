@@ -123,7 +123,7 @@ A partir de los gráficos obtenidos, se pueden sacar distintas conclusiones. Est
 
 ## ¿Cuánta gente usa este servicio?
 
-Para responder a esta pregunta, hay que sejar clara la diferencia entre personas y viajeros.
+Para responder a esta pregunta, hay que dejar clara la diferencia entre personas y viajeros.
 
 Las personas son los usuarios individuales de los servicios de Renfe, mientras que los viajeros son las personas asistentes en casa viaje. Esto quiere decir que una persona puede ser viajero varias veces.
 
